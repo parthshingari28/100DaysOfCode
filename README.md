@@ -4,3 +4,7 @@
 ### Day 1 : Aug 04, 2021
 
 **Today's Progress**: rizzed through asymptomatic analysis of algorithms.
+
+### Day 2 : Aug 05, 2021
+
+**Today's progress**: practiced questions on asymptomatic analysis of algorithms.
