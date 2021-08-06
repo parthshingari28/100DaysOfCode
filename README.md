@@ -8,3 +8,7 @@
 ### Day 2 : Aug 05, 2021
 
 **Today's progress**: practiced questions on asymptomatic analysis of algorithms.
+
+### Day 3 : Aug 06, 2021
+
+**Today's progress**: learned about analysis of recursive algorithms.
