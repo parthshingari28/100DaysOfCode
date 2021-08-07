@@ -12,3 +12,7 @@
 ### Day 3 : Aug 06, 2021
 
 **Today's progress**: learned about analysis of recursive algorithms.
+
+### Day 4 : Aug 07, 2021
+
+**Today's progress**: learned about recursion tree method & solved some practice questions of it.
