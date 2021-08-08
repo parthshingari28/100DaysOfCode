@@ -16,3 +16,7 @@
 ### Day 4 : Aug 07, 2021
 
 **Today's progress**: learned about recursion tree method & solved some practice questions of it.
+
+### Day 5 : Aug 08, 2021
+
+**Today's progress**: learned about space complexity & solved some practice questions of it.
