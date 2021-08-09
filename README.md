@@ -20,3 +20,9 @@
 ### Day 5 : Aug 08, 2021
 
 **Today's progress**: learned about space complexity & solved some practice questions of it.
+
+### Day 6 : Aug 09, 2021
+
+**Today's progress**: practiced some basic mathematics related programs like count digits, ap, gp, hcf, lcm, etc.
+
+
