@@ -25,4 +25,8 @@
 
 **Today's progress**: practiced some basic mathematics related programs like count digits, ap, gp, hcf, lcm, etc.
 
+### Day 7 : Aug 10, 2021
+
+**Today's progress**: practiced input/output questions in C and C++.
+
 
