@@ -29,4 +29,8 @@
 
 **Today's progress**: practiced input/output questions in C and C++.
 
+### Day 8 : Aug 11, 2021
+
+**Today's progress**: learned about permutations and combinations. 
+
 
