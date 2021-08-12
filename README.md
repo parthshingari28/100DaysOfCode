@@ -33,4 +33,8 @@
 
 **Today's progress**: learned about permutations and combinations. 
 
+### Day 9 : Aug 12, 2021
+
+**Today's progress**: learned about basics of python, memory allocation, size and more in python from [this repository](https://github.com/parthshingari28/learn-python/blob/main/Lecture%201(%20learn-python%20).ipynb).
+
 
