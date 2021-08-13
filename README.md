@@ -37,4 +37,7 @@
 
 **Today's progress**: learned about basics of python, memory allocation, size and more in python from [this repository](https://github.com/parthshingari28/learn-python/blob/main/Lecture%201(%20learn-python%20).ipynb).
 
+### Day 10 : Aug 13, 2021
+
+**Today's progress**: learned about lists, tuple, sets and dictionaries in python from [this repository](https://github.com/parthshingari28/learn-python/blob/main/Lecture%202%20(Learn%20python).ipynb).
 
