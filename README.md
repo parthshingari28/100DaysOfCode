@@ -41,3 +41,6 @@
 
 **Today's progress**: learned about lists, tuple, sets and dictionaries in python from [this repository](https://github.com/parthshingari28/learn-python/blob/main/Lecture%202%20(Learn%20python).ipynb).
 
+### Day 11 : Aug 14, 2021
+
+**Today's progress**: learned about slicing, list comprehension, enumeration, conditionals and loops in python. 
