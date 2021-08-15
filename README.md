@@ -44,3 +44,7 @@
 ### Day 11 : Aug 14, 2021
 
 **Today's progress**: learned about slicing, list comprehension, enumeration, conditionals and loops in python. 
+
+### Day 12 : Aug 15, 2021
+
+**Today's progress**: learned about functions, lambda functions, map and filter in python. 
