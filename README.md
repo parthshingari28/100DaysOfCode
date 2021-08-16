@@ -48,3 +48,7 @@
 ### Day 12 : Aug 15, 2021
 
 **Today's progress**: learned about functions, lambda functions, map and filter in python. 
+
+### Day 13 : Aug 16, 2021
+
+**Today's progress**: learned about basics of strings in python. 
