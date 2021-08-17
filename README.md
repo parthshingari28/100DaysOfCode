@@ -52,3 +52,7 @@
 ### Day 13 : Aug 16, 2021
 
 **Today's progress**: learned about basics of [strings](https://github.com/parthshingari28/100DaysOfCode/tree/main/strings-python) in python.
+
+### Day 14 : Aug 17, 2021
+
+**Today's progress**: learned about object oriented programming in python. 
