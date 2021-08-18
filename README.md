@@ -56,3 +56,7 @@
 ### Day 14 : Aug 17, 2021
 
 **Today's progress**: learned about object oriented programming in python. 
+
+### Day 15 : Aug 18, 2021 
+
+**Today's progress**: practiced some practice questions on lists in python. 
