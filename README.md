@@ -60,3 +60,7 @@
 ### Day 15 : Aug 18, 2021 
 
 **Today's progress**: practiced some practice questions on lists in python. 
+
+### Day 16 : Aug 19, 2021 
+
+**Today's progress**: practiced some questions related to [mathematics](https://github.com/parthshingari28/100DaysOfCode/tree/main/maths) in C++.
