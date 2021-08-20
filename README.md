@@ -64,3 +64,7 @@
 ### Day 16 : Aug 19, 2021 
 
 **Today's progress**: practiced some questions related to [mathematics](https://github.com/parthshingari28/100DaysOfCode/tree/main/maths) in C++.
+
+### Day 17 : Aug 20, 2021
+
+**Today's progress**: learned about sorting lists, tuples and objects in python. 
