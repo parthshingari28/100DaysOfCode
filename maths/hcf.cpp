@@ -37,6 +37,7 @@ int hcf_optimized(int a, int b)
 		return a;
 	return hcf_optimized(b, a % b);
 }
+// Time Complexicity : 0(log(min(a, b)))
 
 int main() {
     	int a = 12, b = 15;
