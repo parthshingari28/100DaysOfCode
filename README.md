@@ -76,3 +76,7 @@
 ### Day 19 : Aug 22, 2021
 
 **Today's progress**: learned about bitwise operators in C++.
+
+### Day 20 : Aug 23, 2021 
+
+**Today's progress**: practiced some coding questions related to [mathematics](https://github.com/parthshingari28/100DaysOfCode/tree/main/maths) in C++.
