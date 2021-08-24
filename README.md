@@ -80,3 +80,7 @@
 ### Day 20 : Aug 23, 2021 
 
 **Today's progress**: practiced some coding questions related to [mathematics](https://github.com/parthshingari28/100DaysOfCode/tree/main/maths) in C++.
+
+### Day 21 : Aug 24, 2021 
+
+**Today's progress**: learned about basics of HTML. 
