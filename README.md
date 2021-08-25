@@ -84,3 +84,7 @@
 ### Day 21 : Aug 24, 2021 
 
 **Today's progress**: learned about basics of HTML. 
+
+### Day 22 : Aug 25, 2021 
+
+**Today's progress**: learned about basics of dictionaries and various in built methods used in python. 
