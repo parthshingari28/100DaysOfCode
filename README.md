@@ -88,3 +88,7 @@
 ### Day 22 : Aug 25, 2021 
 
 **Today's progress**: learned about basics of dictionaries and various in built methods used in python. 
+
+### Day 23 : Aug 26, 2021
+
+**Today's progress**: learned about try/except blocks for error handling in python. 
