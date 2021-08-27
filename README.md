@@ -92,3 +92,7 @@
 ### Day 23 : Aug 26, 2021
 
 **Today's progress**: learned about try/except blocks for error handling in python. 
+
+### Day 24 : Aug 27, 2021
+
+**Today's progress**: learned about [bitwise](https://github.com/parthshingari28/100DaysOfCode/tree/main/bit%20magic) in C++.
