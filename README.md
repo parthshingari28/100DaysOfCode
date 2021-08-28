@@ -96,3 +96,7 @@
 ### Day 24 : Aug 27, 2021
 
 **Today's progress**: learned about [bitwise operators](https://github.com/parthshingari28/100DaysOfCode/tree/main/bit%20magic) in C++.
+
+### Day 25 : Aug 28, 2021 
+
+**Today's progress**: practiced some coding questions in C++.
