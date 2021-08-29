@@ -100,3 +100,7 @@
 ### Day 25 : Aug 28, 2021 
 
 **Today's progress**: practiced some coding questions in C++.
+
+### Day 26 : Aug 29, 2021
+
+**Today's progress**: learned about [function overloading](https://github.com/parthshingari28/100DaysOfCode/tree/main/function-overloading) in C++.
