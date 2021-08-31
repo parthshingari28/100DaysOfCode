@@ -108,3 +108,7 @@
 ### Day 27 : Aug 30, 2021
 
 **Today's progress**: learned about operator overloading and function overriding in C++.
+
+### Day 28 : Aug 31, 2021
+
+**Today's progress**: learned about introduction to arrays and array types.
