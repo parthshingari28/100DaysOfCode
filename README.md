@@ -112,3 +112,7 @@
 ### Day 28 : Aug 31, 2021
 
 **Today's progress**: learned about introduction to arrays and array types.
+
+### Day 29 : Sep 01, 2021
+
+**Today's progress**: learned about operations on arrays such as insertion, traversal and deletion in C++.
