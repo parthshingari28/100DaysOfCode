@@ -116,3 +116,7 @@
 ### Day 29 : Sep 01, 2021
 
 **Today's progress**: learned about operations on arrays such as insertion, traversal and deletion in C++.
+
+### Day 30 : Sep 02, 2021
+
+**Today's progress**: practiced some questions on [bit manipulation](https://github.com/parthshingari28/100DaysOfCode/tree/main/bit%20magic/problems) in C++.
