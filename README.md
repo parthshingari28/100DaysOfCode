@@ -120,3 +120,7 @@
 ### Day 30 : Sep 02, 2021
 
 **Today's progress**: practiced some questions on [bit manipulation](https://github.com/parthshingari28/100DaysOfCode/tree/main/bit%20magic/problems) in C++.
+
+### Day 31 : Sep 03, 2021
+
+**Today's progress**: practiced some questions on arrays in C++.
