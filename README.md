@@ -128,3 +128,7 @@
 ### Day 32 : Sep 04, 2021 
 
 **Today's progress**: learned about basics of SQL, data types, data constraints, joins and clauses.
+
+### Day 33 : Sep 05, 2021 
+
+**Today's progress**: learned about basics of sdlc models, waterfall model and agile model.
