@@ -132,3 +132,7 @@
 ### Day 33 : Sep 05, 2021 
 
 **Today's progress**: learned about basics of sdlc models, waterfall model and agile model.
+
+### Day 34 : Sep 06, 2021
+
+**Today's progress**: practiced some questions on arrays in C++.
