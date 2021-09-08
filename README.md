@@ -140,3 +140,7 @@
 ### Day 35 : Sep 07, 2021
 
 **Today's progress** : learned about data types in SQL and practiced some questions on joins in SQL. 
+
+### Day 36 : Sep 08, 2021 
+
+**Today's progress**: practiced questions on array rotations in C++.
