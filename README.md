@@ -144,3 +144,7 @@
 ### Day 36 : Sep 08, 2021 
 
 **Today's progress**: practiced questions on array rotations in C++.
+
+### Day 37 : Sep 09, 2021 
+
+**Today's progress**: learned about basics of data management systems and aggregate functions in SQL.
