@@ -148,3 +148,7 @@
 ### Day 37 : Sep 09, 2021 
 
 **Today's progress**: learned about basics of data management systems and aggregate functions in SQL.
+
+### Day 38 : Sep 10, 2021
+
+**Today's progress**: started learning to scrape websites using beautifulsoup in python. 
