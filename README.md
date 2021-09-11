@@ -152,3 +152,7 @@
 ### Day 38 : Sep 10, 2021
 
 **Today's progress**: started learning to scrape websites using beautifulsoup in python. 
+
+### Day 39 : Sep 11, 2021
+
+**Today's progress**: learned about file handling in python and worked on upes-open.org website. 
