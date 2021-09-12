@@ -155,4 +155,8 @@
 
 ### Day 39 : Sep 11, 2021
 
-**Today's progress**: learned about file handling in python and worked on upes-open.org website. 
+**Today's progress**: learned about file handling in python and worked on upes-open.org website.
+
+### Day 40 : Sep 12, 2021 
+
+**Today's progress**: practiced questions on array in C++.
