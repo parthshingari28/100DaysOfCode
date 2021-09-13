@@ -160,3 +160,7 @@
 ### Day 40 : Sep 12, 2021 
 
 **Today's progress**: practiced questions on array in C++.
+
+### Day 41 : Sep 13, 2021
+
+**Today's progress**: learned about first class functions and lambda functions in python. 
