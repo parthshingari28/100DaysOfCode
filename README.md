@@ -164,3 +164,7 @@
 ### Day 41 : Sep 13, 2021
 
 **Today's progress**: learned about first class functions and lambda functions in python. 
+
+### Day 42 : Sep 14, 2021
+
+**Today's progress**: learned about list comprehensions, dictionary comprehensions, map and filter in python. 
