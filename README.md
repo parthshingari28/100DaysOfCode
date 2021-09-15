@@ -168,3 +168,7 @@
 ### Day 42 : Sep 14, 2021
 
 **Today's progress**: learned about list comprehensions, dictionary comprehensions, map and filter in python. 
+
+### Day 43 : Sep 15, 2021
+
+**Today's progress**: learned about generators and decorators in python.
