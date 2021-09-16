@@ -172,3 +172,7 @@
 ### Day 43 : Sep 15, 2021
 
 **Today's progress**: learned about generators and decorators in python.
+
+### Day 44 : Sep 16, 2021 
+
+**Today's progress**: learned about [sorting in python](https://github.com/parthshingari28/learn-python/blob/main/sorting-python.ipynb) which covers lists sorting, tuple sorting, dictionary sorting and customize sorting.
