@@ -176,3 +176,7 @@
 ### Day 44 : Sep 16, 2021 
 
 **Today's progress**: learned about [sorting in python](https://github.com/parthshingari28/learn-python/blob/main/sorting-python.ipynb) which covers lists sorting, tuple sorting, dictionary sorting and customize sorting.
+
+### Day 45 : Sep 17, 2021
+
+**Today's progress**: started learning web development. Learned about basics of HTML.
