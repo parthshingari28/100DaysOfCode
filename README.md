@@ -180,3 +180,7 @@
 ### Day 45 : Sep 17, 2021
 
 **Today's progress**: started learning web development. Learned about basics of HTML.
+
+## Day 46 : Sep 18, 2021
+
+**Today's progress**: learned about basics of numpy arrays in python. 
