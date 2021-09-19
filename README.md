@@ -184,3 +184,7 @@
 ## Day 46 : Sep 18, 2021
 
 **Today's progress**: learned about basics of numpy arrays in python. 
+
+## Day 47 : Sep 19, 2021
+
+**Today's progress**: learned about basics of hashing, types of hash functions and hashing techniques. 
