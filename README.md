@@ -188,3 +188,7 @@
 ## Day 47 : Sep 19, 2021
 
 **Today's progress**: learned about basics of hashing, types of hash functions and hashing techniques. 
+
+## Day 48 : Sep 20, 2021
+
+**Today's progress**: learned about basics of pandas for data analysis in python. 
