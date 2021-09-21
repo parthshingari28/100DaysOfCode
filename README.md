@@ -192,3 +192,7 @@
 ## Day 48 : Sep 20, 2021
 
 **Today's progress**: learned about basics of pandas for data analysis in python. 
+
+## Day 49 : Sep 21, 2021
+
+**Today's progress**: started [data analysis in python](https://github.com/parthshingari28/data-analysis-in-python) using pandas on stackoverflow annual developer 2021 survey.
