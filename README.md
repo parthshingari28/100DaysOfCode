@@ -196,3 +196,7 @@
 ## Day 49 : Sep 21, 2021
 
 **Today's progress**: started [data analysis in python](https://github.com/parthshingari28/data-analysis-in-python) using pandas on stackoverflow annual developer 2021 survey.
+
+## Day 50 : Sep 22, 2021
+
+**Today's progress**: learned about dataframes, series, accessing data using dot & bracket notation and loc  & iloc for selecting data in Pandas.
