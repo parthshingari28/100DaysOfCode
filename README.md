@@ -200,3 +200,7 @@
 ## Day 50 : Sep 22, 2021
 
 **Today's progress**: learned about dataframes, series, accessing data using dot & bracket notation and loc  & iloc for selecting data in Pandas.
+
+## Day 51 : Sep 23, 2021
+
+**Today's progress**: learned about indexes - how to set, reset and use indexes in pandas.
