@@ -204,3 +204,7 @@
 ## Day 51 : Sep 23, 2021
 
 **Today's progress**: learned about indexes - how to set, reset and use indexes in pandas.
+
+## Day 52 : Sep 24, 2021
+
+**Today's progress**: learned about filtering out data with conditionals and modifying data with pandas i.e updating rows or columns of dataframes.
