@@ -208,3 +208,7 @@
 ## Day 52 : Sep 24, 2021
 
 **Today's progress**: learned about filtering out data with conditionals and modifying data with pandas i.e updating rows or columns of dataframes.
+
+## Day 53 : Sep 25, 2021 
+
+**Today's progress**: learned about adding and removing rows & columns data using pandas in python. 
