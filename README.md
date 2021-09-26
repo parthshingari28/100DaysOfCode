@@ -212,3 +212,7 @@
 ## Day 53 : Sep 25, 2021 
 
 **Today's progress**: learned about adding and removing rows & columns data using pandas in python. 
+
+## Day 54 : Sep 26, 2021
+
+**Today's progress**: learned about sorting data, data aggregations and grouping up data using python in pandas.
