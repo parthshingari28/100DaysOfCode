@@ -216,3 +216,7 @@
 ## Day 54 : Sep 26, 2021
 
 **Today's progress**: learned about sorting data, data aggregations and grouping up data using python in pandas.
+
+## Day 55 : Sep 27, 2021
+
+**Today's progress**: practiced some SQL interview questions from leetcode. 
