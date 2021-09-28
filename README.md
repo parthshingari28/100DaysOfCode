@@ -220,3 +220,7 @@
 ## Day 55 : Sep 27, 2021
 
 **Today's progress**: practiced some SQL interview questions from leetcode. 
+
+## Day 56 : Sep 28, 2021
+
+**Today's progress**: learned about data cleaning and handling missing values while analyzing data using pandas.
