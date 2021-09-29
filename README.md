@@ -224,3 +224,7 @@
 ## Day 56 : Sep 28, 2021
 
 **Today's progress**: learned about data cleaning and handling missing values while analyzing data using pandas.
+
+## Day 57 : Sep 29, 2021
+
+**Today's progress**: learned about basics of Natural Language Processing and components of NLP.
