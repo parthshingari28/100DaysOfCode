@@ -228,3 +228,7 @@
 ## Day 57 : Sep 29, 2021
 
 **Today's progress**: learned about basics of Natural Language Processing and components of NLP.
+
+## Day 58 : Sep 30, 2021 
+
+**Today's progress**: started exploring data visualization with matplotlib library. Learned about basics of plotting, format strings and line plot.
