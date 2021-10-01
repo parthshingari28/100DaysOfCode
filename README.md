@@ -232,3 +232,7 @@
 ## Day 58 : Sep 30, 2021 
 
 **Today's progress**: started exploring data visualization with matplotlib library. Learned about basics of plotting, format strings and line plot.
+
+## Day 59 : Oct 01, 2021
+
+**Today's progress**: learned about bar charts in matplotlib using python.
