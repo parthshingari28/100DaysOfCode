@@ -236,3 +236,7 @@
 ## Day 59 : Oct 01, 2021
 
 **Today's progress**: learned about bar charts in matplotlib using python.
+
+## Day 60 : Oct 02, 2021
+
+**Today's progress**: learned about pie charts in matplotlib using python.
