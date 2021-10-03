@@ -243,4 +243,4 @@
 
 ## Day 61 : Oct 03, 2021
 
-**Today's progress**: learned about stack plots and histograms in matplotlib using python.
+**Today's progress**: learned about stack plots and histograms in python using matplotlib.
