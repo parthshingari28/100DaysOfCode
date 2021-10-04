@@ -244,3 +244,7 @@
 ## Day 61 : Oct 03, 2021
 
 **Today's progress**: learned about stack plots and histograms in python using matplotlib.
+
+## Day 62 : Oct 04, 2021
+
+**Today's progress**: learned about scatter plots in python using matplotlib.
