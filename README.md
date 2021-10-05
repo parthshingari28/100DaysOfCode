@@ -248,3 +248,7 @@
 ## Day 62 : Oct 04, 2021
 
 **Today's progress**: learned about scatter plots in python using matplotlib.
+
+## Day 63 : Oct 05, 2021
+
+**Today's progress**: learned about plotting time series data in python using matplotlib.
