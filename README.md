@@ -252,3 +252,7 @@
 ## Day 63 : Oct 05, 2021
 
 **Today's progress**: learned about plotting time series data in python using matplotlib.
+
+## Day 64 : Oct 06, 2021 
+
+**Today's progress**: worked on [data visualization](https://github.com/parthshingari28/data-viz) using matplotlib library in python. 
