@@ -256,3 +256,7 @@
 ## Day 64 : Oct 06, 2021 
 
 **Today's progress**: worked on [data visualization](https://github.com/parthshingari28/data-viz) using matplotlib library in python. 
+
+## Day 65 : Oct 07, 2021
+
+**Today's progress**: learned about plot fills on line plots in python using matplotlib.
