@@ -264,3 +264,7 @@
 ## Day 66 : Oct 08, 2021 
 
 **Today's progress**: learned about introduction to pandas visualization, seaborn library and other graphs like heatmaps, box plots and faceting.
+
+## Day 67 : Oct 09, 2021
+
+**Today's progress**: learned about sub plots in matplotlib using python.
