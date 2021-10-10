@@ -268,3 +268,7 @@
 ## Day 67 : Oct 09, 2021
 
 **Today's progress**: learned about sub plots in matplotlib using python.
+
+## Day 68 : Oct 10, 2021
+
+**Today's progress**:learned about basic array operations, slicing, indexing and iterating over an array using numpy in python. 
