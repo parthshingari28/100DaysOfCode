@@ -272,3 +272,7 @@
 ## Day 68 : Oct 10, 2021
 
 **Today's progress**:learned about basic array operations, slicing, indexing and iterating over an array using numpy in python. 
+
+## Day 69 : Oct 11, 2021
+
+**Today’s progress**: learned about searching, sorting and filters in numpy arrays. 
