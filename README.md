@@ -276,3 +276,7 @@
 ## Day 69 : Oct 11, 2021
 
 **Today’s progress**: learned about searching, sorting and filters in numpy arrays. 
+
+## Day 70 : Oct 12, 2021
+
+**Today's progress**: working on data analysis and visualization on [IPL](https://github.com/parthshingari28/IPL) Dataset from season 2008 to 2020 using python. 
