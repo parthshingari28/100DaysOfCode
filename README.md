@@ -284,3 +284,7 @@
 ## Day 71 : Oct 13, 2021 
 
 **Today's progress**: learned about hypothesis testing.
+
+## Day 72 : Oct 14, 2021
+
+**Today's progress**: continued working on data analysis and visualization on IPL Dataset from season 2008 to 2020 using python.
