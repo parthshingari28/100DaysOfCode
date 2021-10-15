@@ -288,3 +288,7 @@
 ## Day 72 : Oct 14, 2021
 
 **Today's progress**: continued working on data analysis and visualization on IPL Dataset from season 2008 to 2020 using python.
+
+## Day 73 : Oct 15, 2021 
+
+**Today's progress**: learned more about data visualization using seaborn library in python.
