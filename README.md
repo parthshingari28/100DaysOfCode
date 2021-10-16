@@ -292,3 +292,7 @@
 ## Day 73 : Oct 15, 2021 
 
 **Today's progress**: learned more about data visualization using seaborn library in python.
+
+## Day 74 : Oct 16, 2021
+
+**Today's progress**: started exploring data visualization with tableau. Learned about basics of tableau.
