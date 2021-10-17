@@ -296,3 +296,7 @@
 ## Day 74 : Oct 16, 2021
 
 **Today's progress**: started exploring data visualization with tableau. Learned about basics of tableau.
+
+## Day 75 : Oct 17, 2021
+
+**Today's progress**: learned more about Art of Storytelling with Data Visualizations i.e understanding the charts more and when to use which one.
