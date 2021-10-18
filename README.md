@@ -300,3 +300,7 @@
 ## Day 75 : Oct 17, 2021
 
 **Today's progress**: learned more about Art of Storytelling with Data Visualizations i.e understanding the charts more and when to use which one.
+
+## Day 76 : Oct 18, 2021
+
+**Today's progress**: learned about Area plots using python and continued work on IPL data analysis project. 
