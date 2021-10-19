@@ -304,3 +304,7 @@
 ## Day 76 : Oct 18, 2021
 
 **Today's progress**: learned about Area plots using python and continued work on IPL data analysis project. 
+
+## Day 77 : Oct 19, 2021
+
+**Today's progress**: learned about color schemes for data visualization in python.
