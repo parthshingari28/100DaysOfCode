@@ -308,3 +308,7 @@
 ## Day 77 : Oct 19, 2021
 
 **Today's progress**: learned about color schemes for data visualization in python.
+
+## Day 78 : Oct 20, 2021 
+
+**Today's progress**: revised OOPS concepts in python. 
