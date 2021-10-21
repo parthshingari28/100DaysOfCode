@@ -312,3 +312,7 @@
 ## Day 78 : Oct 20, 2021 
 
 **Today's progress**: revised OOPS concepts in python. 
+
+## Day 79 : Oct 21, 2021 
+
+**Today's progress**: learned about basics of normalization and normal forms in dbms. 
