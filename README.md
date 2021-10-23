@@ -320,3 +320,7 @@
 ## Day 80 : Oct 22, 2021
 
 **Today's progress**: learned about basics and operations in binary search trees.
+
+## Day 81 : Oct 23, 2021
+
+**Today's progress**: practiced data interpretation questions on line charts and bar charts. 
