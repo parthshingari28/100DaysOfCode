@@ -324,3 +324,7 @@
 ## Day 81 : Oct 23, 2021
 
 **Today's progress**: practiced data interpretation questions on line charts and bar charts. 
+
+## Day 82 : Oct 24, 2021
+
+**Today's progress**: revised concepts of permutations and combinations and practiced questions on it.
