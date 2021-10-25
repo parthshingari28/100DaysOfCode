@@ -328,3 +328,7 @@
 ## Day 82 : Oct 24, 2021
 
 **Today's progress**: revised concepts of permutations and combinations and practiced questions on it.
+
+## Day 83 : Oct 25, 2021
+
+**Today's progress**: worked on data interpretation practice questions.
