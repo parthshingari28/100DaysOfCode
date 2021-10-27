@@ -332,3 +332,7 @@
 ## Day 83 : Oct 25, 2021
 
 **Today's progress**: worked on data interpretation practice questions.
+
+## Day 84 : Oct 27, 2021
+
+**Today's progress**: worked on data interpretation practice questions on line graphs and tables. 
