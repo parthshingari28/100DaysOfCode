@@ -340,3 +340,7 @@
 ## Day 85 : Oct 28, 2021
 
 **Today's progress**: practiced SQL interview questions from gfg. 
+
+## Day 86 : Oct 29, 2021
+
+**Today's progress**: worked on data interpretation practice questions on bar charts and pie charts. 
