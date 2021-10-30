@@ -344,3 +344,7 @@
 ## Day 86 : Oct 29, 2021
 
 **Today's progress**: worked on data interpretation practice questions on bar charts and pie charts. 
+
+## Day 87 : Oct 30, 2021
+
+**Today's progress**: learned about entity relationship diagrams and started working on SQL case study #1 by DataWithDanny.
