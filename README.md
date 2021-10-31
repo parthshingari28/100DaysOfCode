@@ -348,3 +348,7 @@
 ## Day 87 : Oct 30, 2021
 
 **Today's progress**: learned about entity relationship diagrams and started working on SQL case study #1 by DataWithDanny.
+
+## Day 88 : Oct 31, 2021
+
+**Today's progress**: revised about joins, group by and having clause concepts in SQL. 
