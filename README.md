@@ -352,3 +352,7 @@
 ## Day 88 : Oct 31, 2021
 
 **Today's progress**: revised about joins, group by and having clause concepts in SQL. 
+
+## Day 89 : Nov 01, 2021
+
+**Today's progress**: practiced questions on joins and learned about subqueries in SQL. 
