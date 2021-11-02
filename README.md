@@ -356,3 +356,7 @@
 ## Day 89 : Nov 01, 2021
 
 **Today's progress**: practiced questions on joins and learned about subqueries in SQL. 
+
+## Day 90 : Nov 02, 2021
+
+**Today's progress**: practiced questions on subqueries and learned about some SQL best practices.
