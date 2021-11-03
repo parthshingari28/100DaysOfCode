@@ -360,3 +360,7 @@
 ## Day 90 : Nov 02, 2021
 
 **Today's progress**: practiced questions on subqueries and learned about some SQL best practices.
+
+## Day 91 : Nov 03, 2021
+
+**Today's progress**: working on SQL case study #2 by DataWithDanny.
