@@ -364,3 +364,7 @@
 ## Day 91 : Nov 03, 2021
 
 **Today's progress**: working on SQL case study #2 by DataWithDanny.
+
+## Day 92 : Nov 04, 2021
+
+**Today's progress**: enjoyed diwali celebrations with family and didn't worked on anything new.
