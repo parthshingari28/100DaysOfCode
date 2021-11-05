@@ -368,3 +368,7 @@
 ## Day 92 : Nov 04, 2021
 
 **Today's progress**: enjoyed diwali celebrations with family and didn't worked on anything new.
+
+## Day 93 : Nov 05, 2021
+
+**Today's progress**: learned about descriptive statistics and classic statistical distributions.
