@@ -372,3 +372,7 @@
 ## Day 93 : Nov 05, 2021
 
 **Today's progress**: learned about descriptive statistics and classic statistical distributions.
+
+## Day 94 : Nov 06, 2021
+
+**Today's progress**: worked on SQL case study by SQLWednesdayWithMel.
