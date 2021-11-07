@@ -376,3 +376,7 @@
 ## Day 94 : Nov 06, 2021
 
 **Today's progress**: worked on SQL case study by SQLWednesdayWithMel.
+
+## Day 95 : Nov 07, 2021
+
+**Today's progress**: learned about window functions and partitioning in SQL.
