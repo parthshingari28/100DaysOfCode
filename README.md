@@ -380,3 +380,7 @@
 ## Day 95 : Nov 07, 2021
 
 **Today's progress**: learned about window functions and partitioning in SQL.
+
+## Day 96 : Nov 08, 2021
+
+**Today's progress**: learned about introduction to big data, basics of hadoop and introduction to spark. 
