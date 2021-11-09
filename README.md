@@ -384,3 +384,7 @@
 ## Day 96 : Nov 08, 2021
 
 **Today's progress**: learned about introduction to big data, basics of hadoop and introduction to spark. 
+
+## Day 97 : Nov 09, 2021
+
+**Today's progress**: learned about basics of cloud computing, containers, types of cloud.
