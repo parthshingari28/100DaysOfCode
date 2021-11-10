@@ -388,3 +388,7 @@
 ## Day 97 : Nov 09, 2021
 
 **Today's progress**: learned about basics of cloud computing, containers, types of cloud.
+
+## Day 98 : Nov 10, 2021 
+
+**Today's progress**: understanding the basic concepts of recommendation system, usecases and types of recommendation systems.
