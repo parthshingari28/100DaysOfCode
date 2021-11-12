@@ -396,3 +396,7 @@
 ## Day 99 : Nov 11, 2021
 
 **Today's progress**: learned about advantages and disadvantages of content based filtering and collaborative based filtering. 
+
+## Day 100 : Nov 12, 2021
+
+**Today's progress**: learned about evaluation metrics to evaluate recommendation systems. 
